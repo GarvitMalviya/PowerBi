@@ -2,8 +2,8 @@
 This project is about the NBA Draft Pick Measurement.It involves around data analysis of NBA Draft Pick Measurement using PowerBi Software
 
 # Requirements
-Dataset: https://data.world/achou/nba-draft-combine-measurements
-PowerBi: https://powerbi.microsoft.com/en-au/
+1. Dataset: https://data.world/achou/nba-draft-combine-measurements
+2. PowerBi: https://powerbi.microsoft.com/en-au/
 
 # Content
 1. Dashboard of NBA Draft Pick Measurement
